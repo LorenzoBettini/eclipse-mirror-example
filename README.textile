@@ -1,0 +1,4 @@
+This is the source code for the tutorial that can be found here:
+
+http://www.lorenzobettini.it/2012/12/mirror-eclipse-repositories-from-eclipse
+
