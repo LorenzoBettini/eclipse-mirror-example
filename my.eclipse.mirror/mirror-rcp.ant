@@ -11,6 +11,7 @@
 			<destination location="${target.dir}/releases/juno" />
 			<iu id="org.eclipse.rcp.feature.group" />
 			<iu id="org.eclipse.rcp.source.feature.group" />
+			<iu id="org.eclipse.equinox.executable.feature.group" />
 		</p2.mirror>
 
 	</target>
